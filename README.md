@@ -3,5 +3,5 @@
 Represents data analysis and visualization tasks for television viewing sessions using Python (`pandas`, `numpy`, `matplotlib`).
 
 ## Student Info
-* **Name:** Kotenko Vladyslav*
+* **Name:** Kotenko Vladyslav
 * **Group:** КМ-42

@@ -1,8 +1,12 @@
-# Lab 1: Intro to Behavioral TV Data
-## Ratings, reach and frequency from one month of panel data
+\# Lab 1: TV Audience \& Viewing Sessions Analysis
 
-Represents data analysis and visualization tasks for television viewing sessions.
 
-## Student Info
-* **Name:** Kotenko Vladyslav
-* **Group:** КМ-42
+
+Represents data analysis and visualization tasks for television viewing sessions using Python (`pandas`, `numpy`, `matplotlib`).
+
+
+
+\## Student Info
+
+\* \*\*Name:\*\* Kotenko Vladyslav\* \*\*Group:\*\* КМ-42
+
